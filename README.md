@@ -1,5 +1,7 @@
-### Hi there 👋
-## My name is John Kim and I am a UI/UX Developer located in the San Francisco Bay Area / Silicon Valley.
+## Hi there 👋
+### My name is John Kim and I am an UI/UX Developer Local to the San Francisco Bay Area / Silicon Valley.
+### Reach me via email : uiuxdeveloper@comcast.net
+### Thank you!
 
 <!--
 **uiuxdeveloper-io/uiuxdeveloper-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
