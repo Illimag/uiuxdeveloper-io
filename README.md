@@ -1,4 +1,5 @@
 ### Hi there 👋
+## My name is John Kim and I am a UI/UX Developer located in the San Francisco Bay Area / Silicon Valley.
 
 <!--
 **uiuxdeveloper-io/uiuxdeveloper-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
