@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### This is John Kim and I am an UI/UX Developer local to the San Francisco Bay Area / Silicon Valley. Currently I am attending WGU Academy to transfer into their 100% remote Computer Science Bachelor Degree Program.
-### Reach me via email : uiuxdeveloper@comcast.net
+### Email : uiuxdeveloper@comcast.net
 ### Thank you!
 
 <!--
